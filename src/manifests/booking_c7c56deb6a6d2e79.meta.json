@@ -1,0 +1,15 @@
+{
+  "source": "booking",
+  "normalized_url": "https://th.bing.com/th/id/OIP.Lm7Ivv0bvl58C2juFShQzwHaEK",
+  "original_url_hash": "45802d8b2576e3ff71a51efce2c6070a",
+  "fetched_at": "2025-08-31T13:11:09.085612",
+  "pages_attempted": 2,
+  "records": 0,
+  "http_trace": [
+    {
+      "url": "https://th.bing.com/th/id/OIP.Lm7Ivv0bvl58C2juFShQzwHaEK",
+      "status": 200
+    }
+  ],
+  "blocked": false
+}

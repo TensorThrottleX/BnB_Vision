@@ -1,0 +1,19 @@
+{
+  "source": "booking",
+  "normalized_url": "https://www.booking.com/searchresults.html?city=-2651727",
+  "original_url_hash": "3f3d3f0d1fbdb9c23797760dccef9dc1",
+  "fetched_at": "2025-08-31T12:50:44.905151",
+  "pages_attempted": 2,
+  "records": 50,
+  "http_trace": [
+    {
+      "url": "https://www.booking.com/searchresults.html?city=-2651727",
+      "status": 200
+    },
+    {
+      "url": "https://www.booking.com/searchresults.html?city=-2651727&offset=25",
+      "status": 200
+    }
+  ],
+  "blocked": false
+}
